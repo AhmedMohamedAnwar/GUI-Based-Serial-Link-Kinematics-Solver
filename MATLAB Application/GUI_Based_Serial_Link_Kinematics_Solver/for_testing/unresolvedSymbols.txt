@@ -1,0 +1,22 @@
+Path	Symbol	Reason
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\coriolis.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\friction.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\gencoords.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\genforces.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\ikine_sym.m	solve	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\ikine_sym.m	syms	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\ikine_sym.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\ikine_sym.m	str2sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\ikine_sym.m	collect	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\ikine_sym.m	children	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\jacobe.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\@SerialLink\rne_dh.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\Link.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\lib\spatial-math\RTBPose.m	digits	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\lib\spatial-math\SE2.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\lib\spatial-math\SE3.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\sym2.m	sym	undeployable
+Users\Ahmed Anwar\AppData\Roaming\MathWorks\MATLAB Add-Ons\Toolboxes\Robotics Toolbox for MATLAB\sym2.m	mupadmex	undeployable
+Users\Ahmed Anwar\Desktop\GUI-Based Serial Link Kinematics Solver\MATLAB file\app1.mlapp	sym	undeployable
+Users\Ahmed Anwar\Desktop\GUI-Based Serial Link Kinematics Solver\MATLAB file\app1.mlapp	syms	undeployable
+robotic_arm_workspace-main\plot2dworkspace.m	matlabFunction	undeployable
